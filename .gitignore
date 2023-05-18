@@ -1,0 +1,16 @@
+Release/
+Debug/Core/
+Debug/Drivers/
+Debug/*.mk
+Debug/*.list
+Debug/objects.list
+Debug/makefile
+Debug/*.elf
+Doc/
+*.bin
+*.map
+~*
+STM32Make.make
+build/
+openocd.cfg
+.mxproject
